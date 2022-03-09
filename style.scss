@@ -60,7 +60,7 @@ body {
         z-index: -10000;
         height: 105vh;
         @media (max-width: 700px) {
-          height: 70vh;
+          height: 80vh;
           overflow: hidden;
         }
         .content {
@@ -93,11 +93,12 @@ body {
                 }
             }
             img {
-                margin-top: -30rem;
+                margin-top: -20rem;
                 width: 100%;
                 z-index: -99;
                 height: 100vh;
                 @media (max-width: 700px) {
+                  margin-top: 0rem;
                   height: 40vh;
                 }
 

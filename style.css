@@ -81,7 +81,7 @@ body .hero {
 
 @media (max-width: 700px) {
   body .hero {
-    height: 70vh;
+    height: 80vh;
     overflow: hidden;
   }
 }
@@ -136,7 +136,7 @@ body .hero .content h1 {
 }
 
 body .hero .content img {
-  margin-top: -30rem;
+  margin-top: -20rem;
   width: 100%;
   z-index: -99;
   height: 100vh;
@@ -144,6 +144,7 @@ body .hero .content img {
 
 @media (max-width: 700px) {
   body .hero .content img {
+    margin-top: 0rem;
     height: 40vh;
   }
 }
