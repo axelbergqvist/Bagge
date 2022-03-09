@@ -136,7 +136,7 @@ body .hero .content h1 {
 }
 
 body .hero .content img {
-  margin-top: 4rem;
+  margin-top: -30rem;
   width: 100%;
   z-index: -99;
   height: 100vh;
