@@ -138,14 +138,15 @@ body .hero .content h1 {
 body .hero .content img {
   margin-top: -20rem;
   width: 100%;
+  height: auto;
   z-index: -99;
-  height: 100vh;
 }
 
 @media (max-width: 700px) {
   body .hero .content img {
     margin-top: 0rem;
-    height: 40vh;
+    height: auto;
+    width: 100vw;
   }
 }
 
