@@ -47,7 +47,7 @@ body #nav {
 body #nav .nav-item {
   -webkit-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium', 'Inter';
   font-size: 1.25rem;
   margin: 0 1rem;
   color: #FDF6E4;
@@ -206,7 +206,7 @@ body .about .content .left h2 {
 }
 
 body .about .content .left .body {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium', 'Inter';
   line-height: 2rem;
   font-size: 1.25rem;
   color: #2E1A09;
@@ -218,7 +218,7 @@ body .about .content .left .button {
 }
 
 body .about .content .left .button a {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium', 'Inter';
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
   border-radius: 4rem;
@@ -316,7 +316,7 @@ body .usp .content .top h3 {
 }
 
 body .usp .content .top .body {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium', 'Inter';
   line-height: 2rem;
   font-size: 1.25rem;
   color: #2E1A09;
@@ -389,7 +389,7 @@ body .findUs .content .left h2 {
 }
 
 body .findUs .content .left .body {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium','Inter';
   line-height: 2rem;
   font-size: 1.25rem;
   color: #2E1A09;
@@ -401,7 +401,7 @@ body .findUs .content .left .button {
 }
 
 body .findUs .content .left .button a {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium','Inter';
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
   border-radius: 4rem;
@@ -533,7 +533,7 @@ body .timeline .content .right .card h3 {
 }
 
 body .timeline .content .right .card .body {
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium','Inter';
   line-height: 2rem;
   font-size: 1.25rem;
   color: #2E1A09;
@@ -659,7 +659,7 @@ body .footer .container .right a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-family: 'CabinetGrotesk-Medium';
+  font-family: 'CabinetGrotesk-Medium','Inter';
   font-size: 1.25rem;
   color: #FDF6E4;
   text-decoration: none;
